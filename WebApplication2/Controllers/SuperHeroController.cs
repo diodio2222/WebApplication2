@@ -9,7 +9,7 @@ namespace WebApplication2.Controllers
     {
         [HttpGet]
         public string aaaa() {
-            return "1";
+            return "dsfdsfds2";
         }
     }
 }
